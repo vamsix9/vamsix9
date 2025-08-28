@@ -9,9 +9,7 @@ Welcome to my GitHub profile! I love building scalable applications, solving pro
 
 ## 🚀 About Me  
 - 🌱 Currently learning **Cloud computing and System Design**
-- ☁️ Exploring **AWS & Cloud Infrastructure** for microservices deployments  
-- 📚 Love contributing to **open source projects**  
-- 💡 Passionate about clean code & scalable architectures  
+- ☁️ Exploring **AWS & Cloud Infrastructure**
 
 ---
 
