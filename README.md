@@ -1,7 +1,7 @@
 
 # Hi there, I'm Vamsi 👋  
 
-💻 **Software Developer | MERN Stack**  
+💻 **Software Developer **  
 
 Welcome to my GitHub profile! I love building scalable applications, solving problems with code, and exploring system design & cloud technologies.  
 
