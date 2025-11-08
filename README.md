@@ -1,7 +1,7 @@
 
 # Hi there, I'm Vamsi 👋  
 
-💻 **Software Developer **  
+💻 **Full-Stack Developer**  
 
 Welcome to my GitHub profile! I love building scalable applications, solving problems with code, and exploring system design & cloud technologies.  
 
@@ -25,17 +25,4 @@ Welcome to my GitHub profile! I love building scalable applications, solving pro
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
----
 
-## 📈 GitHub Stats  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vamsix9&show_icons=true&theme=radical) <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vamsix9&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vamsix9&theme=radical)  
-
----
-
-## 🌐 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vamsi-brahmanapalli)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vamsi-shetty.github.io/) 
